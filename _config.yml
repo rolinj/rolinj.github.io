@@ -18,19 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Team Mirage
+title: Food Escapades
 email: team_mirage@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  “Growing apart doesn’t change the fact that for a long time 
-  we grew side by side; our roots will always be tangled. 
-  I’m glad for that.” - Ally Condie
+  by: Team Mirage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 

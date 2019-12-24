@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Not all knights in shining armor can make your dreams come true!"
 date:   2019-11-12 08:21:04 +0000
 categories: jekyll update
