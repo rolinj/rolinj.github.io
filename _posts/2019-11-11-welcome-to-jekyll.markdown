@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rhian Juat <3 BTS!"
+title:  "Si Rhian puro pritong hotdog at ham ang ulam!"
 date:   2019-11-12 08:21:04 +0000
 categories: jekyll update
 ---
