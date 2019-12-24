@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Team Mirage Welcomes You!"
+title:  "Rhian Juat <3 BTS!"
 date:   2019-11-12 08:21:04 +0000
 categories: jekyll update
 ---
