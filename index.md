@@ -1,5 +1,5 @@
-###### Food Choices
-- :ramen: [Ramen](./store_pages/ramen.md) (Authentic Japanese, Filipino made, etc.)
+###### Food History
+- [Ramen 🍜](./store_pages/ramen.md) (Authentic Japanese, Filipino made, etc.)
 - Sizzling (Sisig, Chicken, Hotdog, Burger Steak, etc.)
 - Pasta (Pancit, Spaghetti, Palabok, Carbonara, etc.)
 - Milktea (Fruit Tea, Brown Sugar based, etc.)
