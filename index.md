@@ -1,11 +1,18 @@
-### Visited Food House
-<!-- | Name         | Address          |
-|:-------------|:-----------------|
-| Sili Cafe    | Mahabang Parang  | -->
+###### Food Choices
+- :ramen: [Ramen](./store_pages/ramen.md) (Authentic Japanese, Filipino made, etc.)
+- Sizzling (Sisig, Chicken, Hotdog, Burger Steak, etc.)
+- Pasta (Pancit, Spaghetti, Palabok, Carbonara, etc.)
+- Milktea (Fruit Tea, Brown Sugar based, etc.)
+- Chicken Wings (Salty, Spicy, Sweet, etc.)
+- Buffet (All Type of Cuisines)
 
-| Store Name        | Address          | Overall Rating |
+##### Test
+
+
+
+<!-- | Store Name        | Address          | Overall Rating |
 |:-------------|:------------------|:------|
-| [Sili Cafe](./another-page.html)           | Mahabang Parang | 8.5/10  |
+| [Sili Cafe](./store_pages/sili-cafe.html)           | Mahabang Parang | 8.5/10  |
 | Gelines | ----   | ----  |
 | Raw House           | ----      | ---   |
-| Doc Jones           | ---- | ----  |
+| Doc Jones           | ---- | ----  | -->
