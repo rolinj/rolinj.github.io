@@ -1,6 +1,7 @@
-###### 
+###### Adventure list
 - [Ramen 🍜](./store_pages/ramen.md) (Authentic Japanese, Filipino made, etc.)
-- [Foodtrips 🍦🎂🍕🍻🍟🍩🍱](./store_pages/foodtrips.md) (Anything under sun 😅)
+- [Foodtrip 🍦🎂🍕🍻🍟🍩🍱](./store_pages/foodtrips.md) (Anything under sun 😅)
+- Cafe ☕️🍧(Hot/Iced coffee and Frappe)
 
 
 
