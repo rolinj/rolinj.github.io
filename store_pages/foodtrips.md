@@ -1,6 +1,7 @@
 ###### Foodtrips
 
 1. **Mom's Place**
-Mahabang Parang, Sta. Maria, Bulacan
+_(Mahabang Parang, Sta. Maria, Bulacan)_
+- 
 
 ![moms-place](/assets/images/foodtrips/moms-place.jpg) 
