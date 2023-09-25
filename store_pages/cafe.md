@@ -9,17 +9,13 @@
       <a href="#1-boop-cafe">Boop Cafe</a>
     </li>
     <li>
-      <a href="#walkthrough-on-eks-terraform-structure">Walkthrough on EKS Terraform Structure</a>
-    </li>
-    <li>
-      <a href="#eks-infra-contribution">EKS Infra Contribution</a>
+      <a href="#2-by-grace-cafe">By Grace Cafe</a>
     </li>
   </ol>
   <br />
 </details>
 <br />
 
-[test](#1-boop-cafe)
 
 ### **1. Boop Cafe**
 _(Bocaue, Sta. Maria, Bulacan)_
