@@ -1,7 +1,5 @@
-###### 🥛🧋🍵🍟
 [Go Back to Main Menu](https://rolinj.github.io)
-<br />
-<!-- TABLE OF CONTENTS -->
+<!-- <br />
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,11 +12,11 @@
   </ol>
   <br />
 </details>
-<br />
+<br /> -->
 
 * * *
 
-#### Boop Cafe
+## Boop Cafe
 - `Location:` Bocaue, Sta. Maria, Bulacan
 - `Rating:` ⭐️⭐️⭐️
   - ordinary yung lasa tapos medyo pricey sya
