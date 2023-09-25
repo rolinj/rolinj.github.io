@@ -1,18 +1,4 @@
 ⬅️ [Main Menu](https://rolinj.github.io)
-<br />
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#1-boop-cafe">Boop Cafe</a>
-    </li>
-    <li>
-      <a href="#2-by-grace-cafe">By Grace Cafe</a>
-    </li>
-  </ol>
-  <br />
-</details>
-<br />
 
 * * *
 
@@ -22,7 +8,7 @@
 
 #### By Grace Cafe
 - `Location:` Caypombo, Sta. Maria, Bulacan
-- `Rating:` ⭐️⭐️⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (9/10)
   - price is affordable, yet it tastes delicious
   - spacious and breezy since it's on the 3rd floor with an open area
   - restroom is clean, and it has a bidet
@@ -34,7 +20,7 @@
 
 #### It's Eight Thirty
 - `Location:` Bypass Road, Sta. Maria, Bulacan
-- `Rating:` ⭐️⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (8/10)
   - place is incredibly nice and elegant
   - a bit pricey, but it's delicious
   - restroom is nice, modern, and equipped with a bidet
@@ -45,7 +31,7 @@
 
 #### Love, Anj
 - `Location:` Poblacion, Sta. Maria, Bulacan
-- `Rating:` ⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️ (6/10)
   - price is affordable
   - taste is quite ordinary
 
@@ -57,7 +43,7 @@
 
 #### Boop Cafe
 - `Location:` Bocaue, Bulacan
-- `Rating:` ⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️ (6/10)
   - taste is quite ordinary
   - store itself is small, but it has an al fresco setup
   - restroom is clean, and it has a bidet
@@ -68,7 +54,7 @@
 
 #### Cafe Liberica
 - `Location:` Bocaue, Bulacan
-- `Rating:` ⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️ (6/10)
   - taste is quite ordinary
   - store itself is small, but there's an al fresco area on the 2nd floor
   - restroom is clean, and it has a bidet
@@ -81,7 +67,7 @@
 
 #### The Porch
 - `Location:` Norzagaray, Bulacan
-- `Rating:` ⭐️⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (8/10)
   - a bit pricey, but it's worth it
   - service is excellent
   - have available board games
@@ -94,7 +80,7 @@
 
 #### Daylight
 - `Location:` Malolos, Bulacan
-- `Rating:` ⭐️⭐️⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (9/10)
   - pricey, but it's super worth it in terms of taste
   - have a loyalty card that can be redeemed for drinks
   - don't have a restroom
@@ -105,7 +91,7 @@
 
 #### Cafe Rese
 - `Location:` Malolos, Bulacan
-- `Rating:` ⭐️⭐️⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (9/10)
   - taste of their coffee is perfect
   - also offer food that is incredibly delicious
   - a must try in Malolos area
@@ -118,7 +104,7 @@
 
 #### Cup Point (Sunnies Studio)
 - `Location:` SM Megamall
-- `Rating:` ⭐️⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (8/10)
   - lattes are delicious
   - matcha has a strong flavor
   - ambiance is beautiful with yellow accents
@@ -129,7 +115,7 @@
 
 #### The French Baker
 - `Location:` SM Megamall
-- `Rating:` ⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (6/10)
   - coffee is too strong for my liking
 
 ![french-baker](/assets/images/cafe/french-baker.JPG) 
@@ -138,7 +124,7 @@
 
 #### Starbucks
 - `Location:` There are SB stores all around PH
-- `Rating:` ⭐️⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (8/10)
   - place is nice, and you can work there
   - restroom is always clean
   - coffee is delicious, and you can have it adjusted to your liking
@@ -151,7 +137,7 @@
 
 #### UCC Coffee
 - `Location:` There are UCC stores all around PH
-- `Rating:` ⭐️⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (8/10)
   - place is nice, and you can work there
   - restroom is always clean
   - also serve delicious meals
@@ -164,7 +150,7 @@
 
 #### Masa Bakehouse
 - `Location:` San Juan, La Union
-- `Rating:` ⭐️⭐️⭐️⭐️⭐️
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (9/10)
   - coffee is incredibly delicious
   - you'd also fall for their pastries
   - ambiance is lovely, very cozy
