@@ -15,6 +15,7 @@
   - also serve samgyeopsal
 
 ![by-grace-cafe](/assets/images/cafe/by-grace-cafe.JPG) 
+![by-grace-cafe-2](/assets/images/cafe/by-grace-cafe-2.JPG) 
 
 * * *
 
@@ -67,10 +68,21 @@
 
 #### The Porch
 - `Location:` Norzagaray, Bulacan
-- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (8/10)
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (8/10)
   - a bit pricey, but it's worth it
   - service is excellent
   - have available board games
+
+![the-porch](/assets/images/cafe/the-porch.JPG) 
+
+* * *
+
+#### Petra's Kitchen and Cafe
+- `Location:` Norzagaray, Bulacan
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (7/10)
+  - a bit pricey
+  - taste is quite ordinary
+  - place is good as its overlooking
 
 ![the-porch](/assets/images/cafe/the-porch.JPG) 
 
