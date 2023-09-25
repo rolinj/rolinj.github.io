@@ -1,3 +1,7 @@
+⬅️ [Main Menu](https://rolinj.github.io)
+
+* * *
+
 ## List of Restaurants
 
 ### Sta Maria, Bulacan
@@ -6,7 +10,7 @@
 - `Location:` Pulong Buhangin, Sta. Maria, Bulacan
 - `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (8/10)
   - affordable, but incredibly delicious
-  - offer unlimited rice and deliciously seasoned unlimited gravy
+  - offers unlimited rice and deliciously seasoned unlimited gravy
 
 ![amelitos](/assets/images/foodtrips/amelitos.JPG) 
 
@@ -16,6 +20,7 @@
 - `Location:` Bagbaguin, Sta. Maria, Bulacan
 - `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (7/10)
   - taste is quite ordinary
+  - store is spacious
 
 ![bonita](/assets/images/foodtrips/bonita.JPG) 
 
