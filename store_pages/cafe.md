@@ -32,6 +32,27 @@
 
 * * *
 
+#### It's Eight Thirty
+- `Location:` Bypass Road, Sta. Maria, Bulacan
+- `Rating:` ⭐️⭐️⭐️⭐️
+  - place is incredibly nice and elegant
+  - a bit pricey, but it's delicious
+  - restroom is nice, modern, and equipped with a bidet
+
+![its-eight-thirty](/assets/images/cafe/its-eight-thirty.JPG) 
+
+* * *
+
+#### Love, Anj
+- `Location:` Poblacion, Sta. Maria, Bulacan
+- `Rating:` ⭐️⭐️⭐️
+  - price is affordable
+  - taste is quite ordinary
+
+![love-anj](/assets/images/cafe/love-anj.JPG) 
+
+* * *
+
 ### Bocaue, Bulacan
 
 #### Boop Cafe
@@ -56,16 +77,40 @@
 
 * * *
 
+### Norzagaray, Bulacan
+
+#### The Porch
+- `Location:` Norzagaray, Bulacan
+- `Rating:` ⭐️⭐️⭐️⭐️
+  - a bit pricey, but it's worth it
+  - service is excellent
+  - have available board games
+
+![the-porch](/assets/images/cafe/the-porch.JPG) 
+
+* * *
+
 ### Malolos, Bulacan
 
 #### Daylight
-- `Location:` Malolos Bulacan
+- `Location:` Malolos, Bulacan
 - `Rating:` ⭐️⭐️⭐️⭐️⭐️
   - pricey, but it's super worth it in terms of taste
   - have a loyalty card that can be redeemed for drinks
   - don't have a restroom
 
 ![daylight](/assets/images/cafe/daylight.JPG) 
+
+* * *
+
+#### Cafe Rese
+- `Location:` Malolos, Bulacan
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️
+  - taste of their coffee is perfect
+  - also offer food that is incredibly delicious
+  - a must try in Malolos area
+
+![rese](/assets/images/cafe/rese.JPG) 
 
 * * *
 
@@ -79,5 +124,51 @@
   - ambiance is beautiful with yellow accents
 
 ![cup-point](/assets/images/cafe/cup-point.JPG) 
+
+* * *
+
+#### The French Baker
+- `Location:` SM Megamall
+- `Rating:` ⭐️⭐️⭐️
+  - coffee is too strong for my liking
+
+![french-baker](/assets/images/cafe/french-baker.JPG) 
+
+* * *
+
+#### Starbucks
+- `Location:` There are SB stores all around PH
+- `Rating:` ⭐️⭐️⭐️⭐️
+  - place is nice, and you can work there
+  - restroom is always clean
+  - coffee is delicious, and you can have it adjusted to your liking
+  - have stickers during the 'ber' months that can be redeemed for items
+
+![starbucks-1](/assets/images/cafe/starbucks-1.JPG) 
+![starbucks-2](/assets/images/cafe/starbucks-2.jpg) 
+
+* * *
+
+#### UCC Coffee
+- `Location:` There are UCC stores all around PH
+- `Rating:` ⭐️⭐️⭐️⭐️
+  - place is nice, and you can work there
+  - restroom is always clean
+  - also serve delicious meals
+
+![ucc-1](/assets/images/cafe/ucc-1.JPG) 
+
+* * *
+
+### La Union
+
+#### Masa Bakehouse
+- `Location:` San Juan, La Union
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️
+  - coffee is incredibly delicious
+  - you'd also fall for their pastries
+  - ambiance is lovely, very cozy
+
+![masa](/assets/images/cafe/masa.jpg) 
 
 * * *
