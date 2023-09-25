@@ -1,5 +1,5 @@
 [Go Back to Main Menu](https://rolinj.github.io)
-<!-- <br />
+<br />
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,11 +12,13 @@
   </ol>
   <br />
 </details>
-<br /> -->
+<br />
 
 * * *
 
-## Boop Cafe
+## Oveview
+
+#### Boop Cafe
 - `Location:` Bocaue, Sta. Maria, Bulacan
 - `Rating:` ⭐️⭐️⭐️
   - ordinary yung lasa tapos medyo pricey sya
@@ -28,8 +30,8 @@
 * * *
 
 #### By Grace Cafe
-_(Caypombo, Sta. Maria, Bulacan)_
-- Overall: ⭐️⭐️⭐️⭐️⭐️
+- `Location:` Caypombo, Sta. Maria, Bulacan
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️
   - mura yung price pero masarap sya
   - maluwag at presko since nasa 3rd floor tapos open area
   - malinis CR + may bidet
