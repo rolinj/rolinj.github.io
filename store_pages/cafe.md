@@ -18,7 +18,7 @@
 
 * * *
 
-#### 1. Boop Cafe
+#### Boop Cafe
 _(Bocaue, Sta. Maria, Bulacan)_
 - Overall: ⭐️⭐️⭐️
   - ordinary yung lasa tapos medyo pricey sya
@@ -29,7 +29,7 @@ _(Bocaue, Sta. Maria, Bulacan)_
 
 * * *
 
-#### 2. By Grace Cafe
+#### By Grace Cafe
 _(Caypombo, Sta. Maria, Bulacan)_
 - Overall: ⭐️⭐️⭐️⭐️⭐️
   - mura yung price pero masarap sya
