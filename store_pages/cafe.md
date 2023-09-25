@@ -16,22 +16,27 @@
 </details>
 <br />
 
+* * *
 
-### **1. Boop Cafe**
+#### 1. Boop Cafe
 _(Bocaue, Sta. Maria, Bulacan)_
 - Overall: ⭐️⭐️⭐️
-  - sakto lang yung lasa tapos medyo pricey sya
+  - ordinary yung lasa tapos medyo pricey sya
   - maliit yung store mismo pero may al fresco setup
+  - malinis yung CR + may bidet
 
 ![boop-cafe](/assets/images/cafe/boop-cafe.JPG) 
 
+* * *
 
-### **2. By Grace Cafe**
+#### 2. By Grace Cafe
 _(Caypombo, Sta. Maria, Bulacan)_
 - Overall: ⭐️⭐️⭐️⭐️⭐️
   - mura yung price pero masarap sya
-  - maluwag yung place at presko since nasa 3rd floor tapos open area
+  - maluwag at presko since nasa 3rd floor tapos open area
   - malinis CR + may bidet
   - may samgyup din sila
 
 ![by-grace-cafe](/assets/images/cafe/by-grace-cafe.JPG) 
+
+* * *
