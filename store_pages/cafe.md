@@ -1,4 +1,4 @@
-[Go Back to Main Menu](https://rolinj.github.io)
+[Main Menu](https://rolinj.github.io)
 <br />
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 
 * * *
 
-## Oveview
+##
 
 #### Boop Cafe
 - `Location:` Bocaue, Sta. Maria, Bulacan
