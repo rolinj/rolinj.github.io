@@ -1,12 +1,12 @@
 ###### 🥛🧋🍵🍟
-
+[Go Back to Main Menu](https://rolinj.github.io)
 <br />
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Overview</a>
+      <a href="#1-boop-cafe">Boop Cafe</a>
     </li>
     <li>
       <a href="#walkthrough-on-eks-terraform-structure">Walkthrough on EKS Terraform Structure</a>
@@ -14,15 +14,28 @@
     <li>
       <a href="#eks-infra-contribution">EKS Infra Contribution</a>
     </li>
-        <ul>
-          <li><a href="#overview">Overview</a></li>
-          <li><a href="#walkthrough-on-eks-terraform-structure">Walkthrough on EKS Terraform Structure</a></li>
-        </ul>
   </ol>
   <br />
 </details>
 <br />
 
-1. **Mom's Place**
-_(Mahabang Parang, Sta. Maria, Bulacan)_
-- Overall, the place is pretty good (spacious dining area, incandescent lights, clean surroundings). For entertainment, they play movies in the front with their flat TV. (during our visit, it was _Superman Returns_). We already knew this place long before our visit but most of the time, it's parking space is full, causing us to backout. But now, we had our chance and we're all glad taking it.
+[test](#1-boop-cafe)
+
+### **1. Boop Cafe**
+_(Bocaue, Sta. Maria, Bulacan)_
+- Overall: ⭐️⭐️⭐️
+  - sakto lang yung lasa tapos medyo pricey sya
+  - maliit yung store mismo pero may al fresco setup
+
+![boop-cafe](/assets/images/cafe/boop-cafe.JPG) 
+
+
+### **2. By Grace Cafe**
+_(Caypombo, Sta. Maria, Bulacan)_
+- Overall: ⭐️⭐️⭐️⭐️⭐️
+  - mura yung price pero masarap sya
+  - maluwag yung place at presko since nasa 3rd floor tapos open area
+  - malinis CR + may bidet
+  - may samgyup din sila
+
+![by-grace-cafe](/assets/images/cafe/by-grace-cafe.JPG) 
