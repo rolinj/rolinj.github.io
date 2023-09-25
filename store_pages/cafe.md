@@ -19,8 +19,8 @@
 * * *
 
 #### Boop Cafe
-_(Bocaue, Sta. Maria, Bulacan)_
-- Overall: ⭐️⭐️⭐️
+- `Location:` Bocaue, Sta. Maria, Bulacan
+- `Rating:` ⭐️⭐️⭐️
   - ordinary yung lasa tapos medyo pricey sya
   - maliit yung store mismo pero may al fresco setup
   - malinis yung CR + may bidet
