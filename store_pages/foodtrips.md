@@ -343,6 +343,17 @@
 
 * * *
 
+#### Shake Shack
+- `Location:` Multiple Shake Shacks around Metro Manila
+- `Rating:` ⭐️⭐️⭐️⭐️ (4/10)
+  - a bit pricey
+  - hotdog does not come with ketchup by default
+
+![shake-and-shack-2](/assets/images/foodtrips/shake-and-shack-2.JPG)
+![shake-and-shack](/assets/images/foodtrips/shake-and-shack.JPG)
+
+* * *
+
 #### Shakeys
 - `Location:` There are Shakeys stores all around PH
 - `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (8/10)

@@ -127,10 +127,19 @@
 
 #### The French Baker
 - `Location:` SM Megamall
-- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (6/10)
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️ (6/10)
   - coffee is too strong for my liking
 
 ![french-baker](/assets/images/cafe/french-baker.JPG) 
+
+* * *
+
+#### Nanyang
+- `Location:` SM Megamall
+- `Rating:` ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ (6/10)
+  - no feedback yet from our resident reviewer
+
+![nanyang](/assets/images/cafe/nanyang.JPG) 
 
 * * *
 
